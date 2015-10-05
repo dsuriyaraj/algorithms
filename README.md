@@ -1,2 +1,2 @@
-# algorithms
-Implementing various algorithms
+# Practice
+Try my best to practise
